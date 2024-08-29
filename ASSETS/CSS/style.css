@@ -1,0 +1,23 @@
+.avatar{
+   background-image: url(https://media.licdn.com/dms/image/v2/D4D03AQH-dP9MtryJRw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712941344951?e=1730332800&v=beta&t=fW_H_rsdN1QO0FJ5s9vUKFy7q-LdmJ1CazSRT-xArxI);
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 3px solid red;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    float: inline-start;
+
+} 
+.cabecalho{
+    align-content: center;
+    text-align: center;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.ribbon{
+    
+
+}
